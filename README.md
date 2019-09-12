@@ -7,4 +7,5 @@
  2) Psuedo Inverse Method
  3) QR Decompostion Method
  4) Least Sum Of Squares method
- 5) Sklearn's LinearRegression Class
+ 5) Sklearn's LinearRegression 
+ 6) Gradient Descent
