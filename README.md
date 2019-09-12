@@ -1,4 +1,4 @@
-# linear regression
+# Linear regression
  Various Methods to Implement Linear Regression
  
  Different Methods implemented for Linear Regression are 
